@@ -2,6 +2,8 @@
 
 A Streamlit web application that transforms modern, clean images of Devanagari or Sanskrit text into weathered, historical-looking documents by applying realistic ink smudges and aging effects.
 
+# TRY IT NOW -https://tusharrr3-manuscript-smudge-generator-app-grz4r6.streamlit.app/
+
 ## Features
 
 - **PNG Image Upload**: Upload clean manuscript images
